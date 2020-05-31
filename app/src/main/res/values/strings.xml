@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LaLyrics</string>
+    <string name="id_lirik">ID Lirik</string>
+    <string name="judul_lirik">Judul Lirik</string>
+    <string name="tgl_terbit">Tanggal Terbit</string>
+    <string name="gambar">Ilustrasi Gambar</string>
+    <string name="album">Caption Album</string>
+    <string name="penyanyi">Penyanyi</string>
+    <string name="isi_lirik">Isi Lirik</string>
+    <string name="link">Link Lirik</string>
+    <string name="tambah">Tambah Lirik</string>
+    <string name="edit">Edit Lirik</string>
+    <string name="hapus">Hapus Lirik</string>
+    <string name="bagikan">Bagikan Lirik</string>
+    <string name="titik_dua">:</string>
+    <string name="simpan">Simpan</string>
+    <string name="data_lirik">Data Lirik</string>
+    <string name="pilih_tgl">Pilih</string>
+</resources>
